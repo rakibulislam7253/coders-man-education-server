@@ -1,145 +1,177 @@
 [
-    {
-      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": true
-      },
-      "category_id": "01",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 488,
-      "Price": "$30",
-      "title": "Learn Node. js in easy way",
-      "author": {
-        "name": "Jimmy Dane",
-        "published_date": "2022-08-24 17:27:34",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
-      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-      "image_url": "https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.png",
-      "details": ["Node. js is primarily used for non-blocking, event-driven servers, due to its single-threaded nature.",
-      "We will show the javascript from basic to deep ","The process will take 6 weeks",
-      "there is reward if you get average 90 marks in every exam"]
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
     },
-    {
-      "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": true
-      },
-      "category_id": "02",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 488,
-      "title": "Learn javascript in easy way",
-      "Price": "$30",
-      "author": {
-        "name": "Jimmy Dane",
-        "published_date": "2022-08-24 17:27:34",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
-      "video":"https://www.microsoft.com/en-us/videoplayer/embed/RWfzeB?pid=ocpVideo1-innerdiv-oneplayer&maskLevel=20&market=en-us",
-      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-      "image_url": "https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png",
-      "details": ["Javascript is used by programmers across the world to create dynamic and interactive web content like applications and browsers.",
-      "We will show the javascript from basic to deep ","The process will take 6 weeks",
-      "there is reward if you get average 90 marks in every exam"]
+    "category_id": "01",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
     },
-
-    {
-      "_id": "f69a695f037cd9484cecaea37ca71011",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": true
-      },
-      "category_id": "03",
-      "rating": { "number": 4.8, "badge": "Excellent" },
-      "total_view": 400,
-      "title": "Learn python in easy way",
-      "Price": "$20",
-      "author": {
-        "name": "Jennifer Wood",
-        "published_date": "2022-08-30 16:38:45",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
-      "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
-      "image_url": "https://logos-world.net/wp-content/uploads/2021/10/Python-Symbol.png",
-      "details": ["Python is a computer programming language often used to build websites and software",
-      "We will show the react from basic to deep ","The process will take 5 weeks",
-      "there is reward if you get average 90 marks in every exam"]
-                  
+    "total_view": 428,
+    "Price": "$30",
+    "title": "Learn Node. js in easy way",
+    "watch": "https://youtu.be/oyFFq0yMZJU?list=RDoyFFq0yMZJU",
+    "author": {
+      "name": "Jimmy Dane",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
     },
-    {
-      "_id": "f69a695f037cd9484cecaea37ca71012",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": true
-      },
-      "category_id": "04",
-      "rating": { "number": 4.3, "badge": "Excellent" },
-      "total_view": 400,
-      "title": "Learn React in easy way",
-      "Price": "$28",
-      "author": {
-        "name": "Jennifer Wood",
-        "published_date": "2022-08-30 16:38:45",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
-      "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
-      "image_url": "https://kobaltsolutions.com/wp-content/uploads/2021/04/Screen-Shot-2021-04-08-at-4.06.03-PM.png",
-      "details": ["The React. js framework is an open-source JavaScript framework and library developed by Facebook",
-      "We will show the react from basic to deep ","The process will take 5 weeks",
+    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+    "image_url": "https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.png",
+    "details": [
+      "Node. js is primarily used for non-blocking, event-driven servers, due to its single-threaded nature.",
+      "We will show the javascript from basic to deep ",
+      "The process will take 6 weeks",
       "there is reward if you get average 90 marks in every exam"
     ]
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
     },
-
-    {
-      "_id": "11468ed61aee84de492a8b04158a22f9",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": false
-      },
-      "category_id": "05",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 980,
-      "title": "Learn Php in easy way",
-      "author": {
-        "name": "system",
-        "published_date": "2022-08-24 23:15:00",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
-      "Price": "$25",
-
-      "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
-      "image_url": "https://www.pngkey.com/png/detail/269-2693599_html5-logo-php-logo-php-logo-png.png",
-      "details": ["PHP is an open-source server-side scripting language that many devs use for web development",
-      "We will show the php from basic to deep ","The process will take 2 weeks",
+    "category_id": "02",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
+    "total_view": 384,
+    "watch": "https://youtu.be/oyFFq0yMZJU?list=RDoyFFq0yMZJU",
+    "title": "Learn javascript in easy way",
+    "Price": "$30",
+    "author": {
+      "name": "Jimmy Dane",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    
+    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+    "image_url": "https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png",
+    "details": [
+      "Javascript is used by programmers across the world to create dynamic and interactive web content like applications and browsers.",
+      "We will show the javascript from basic to deep ",
+      "The process will take 6 weeks",
       "there is reward if you get average 90 marks in every exam"
     ]
+  },
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71011",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
     },
-    {
-      "_id": "11468ed61aee84de492a8b04158a22f0",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": false
-      },
-      "category_id": "06",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 980,
-      "title": "Learn MySql in easy way",
-      "Price": "$14",
-      "author": {
-        "name": "system",
-        "published_date": "2022-08-24 23:15:00",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
-      "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
-      "image_url": "https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png",
-      "details": ["MySQL is a relational database management system based on SQL – Structured Query Language. ",
-      "We will show the MySql from basic to deep ","The process will take 3 weeks",
+    "category_id": "03",
+    "rating": {
+      "number": 4.8,
+      "badge": "Excellent"
+    },
+    "total_view": 600,
+    "watch": "https://youtu.be/oyFFq0yMZJU?list=RDoyFFq0yMZJU",
+    "title": "Learn python in easy way",
+    "Price": "$20",
+    "author": {
+      "name": "Jennifer Wood",
+      "published_date": "2022-08-30 16:38:45",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+    "image_url": "https://logos-world.net/wp-content/uploads/2021/10/Python-Symbol.png",
+    "details": [
+      "Python is a computer programming language often used to build websites and software",
+      "We will show the react from basic to deep ",
+      "The process will take 5 weeks",
       "there is reward if you get average 90 marks in every exam"
-      
+    ]
+  },
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71012",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "04",
+    "rating": {
+      "number": 4.3,
+      "badge": "Excellent"
+    },
+    "total_view": 740,
+    "watch": "https://youtu.be/oyFFq0yMZJU?list=RDoyFFq0yMZJU",
+    "title": "Learn React in easy way",
+    "Price": "$28",
+    "author": {
+      "name": "Jennifer Wood",
+      "published_date": "2022-08-30 16:38:45",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+    "image_url": "https://kobaltsolutions.com/wp-content/uploads/2021/04/Screen-Shot-2021-04-08-at-4.06.03-PM.png",
+    "details": [
+      "The React. js framework is an open-source JavaScript framework and library developed by Facebook",
+      "We will show the react from basic to deep ",
+      "The process will take 5 weeks",
+      "there is reward if you get average 90 marks in every exam"
+    ]
+  },
+  {
+    "_id": "11468ed61aee84de492a8b04158a22f9",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "category_id": "05",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
+    "total_view": 980,
+    "watch": "https://youtu.be/oyFFq0yMZJU?list=RDoyFFq0yMZJU",
+    "title": "Learn Php in easy way",
+    "author": {
+      "name": "system",
+      "published_date": "2022-08-24 23:15:00",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "Price": "$25",
+    "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+    "image_url": "https://www.pngkey.com/png/detail/269-2693599_html5-logo-php-logo-php-logo-png.png",
+    "details": [
+      "PHP is an open-source server-side scripting language that many devs use for web development",
+      "We will show the php from basic to deep ",
+      "The process will take 2 weeks",
+      "there is reward if you get average 90 marks in every exam"
+    ]
+  },
+  {
+    "_id": "11468ed61aee84de492a8b04158a22f0",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "category_id": "06",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
+    "total_view": 880,
+    "watch": "https://youtu.be/oyFFq0yMZJU?list=RDoyFFq0yMZJU",
+    "title": "Learn MySql in easy way",
+    "Price": "$14",
+    "author": {
+      "name": "system",
+      "published_date": "2022-08-24 23:15:00",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+    "image_url": "https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png",
+    "details": [
+      "MySQL is a relational database management system based on SQL – Structured Query Language. ",
+      "We will show the MySql from basic to deep ",
+      "The process will take 3 weeks",
+      "there is reward if you get average 90 marks in every exam"
     ]
   }
-
-]   
-    
+]
